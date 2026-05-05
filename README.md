@@ -18,7 +18,7 @@ datasets/
   TS_38_331.pdf                  # Primary 3GPP TS 38.331 PDF
   adaptive_urls.txt              # 10 selected URLs used for adaptive retrieval
 outputs/                         # Optional output directory
-source_cache/                    # Optional downloaded/cache files
+source_cache/                    
 ```
 
 ## Dataset and adaptive sources
@@ -172,3 +172,8 @@ python full_pipeline.py \
 - The separate files are included to make the project easier to explain in the report and on GitHub.
 - The adaptive retrieval source list is fixed in `datasets/adaptive_urls.txt` and also mirrored in `config.py`.
 - The Gradio interface displays the final answer, run summary, pipeline route, and evidence used.
+## Demo Video
+
+A demo video of the working Gradio interface and sample outputs is available here for 3B and 1B(0.5 is not included as it did not give acceptable results):
+
+[Project Demo Video](https://drive.google.com/drive/folders/1SObQ-kUhFSEbcVnuksNJBWtk7Py1H-I6?usp=sharing)
