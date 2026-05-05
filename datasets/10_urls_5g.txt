@@ -1,0 +1,10 @@
+https://www.etsi.org/deliver/etsi_ts/138300_138399/138331/18.01.00_60/ts_138331v180100p.pdf
+https://en.wikipedia.org/wiki/Radio_Resource_Control
+https://www.3glteinfo.com/5g/protocols/rrc/
+https://www.telcomaglobal.com/p/5g-nr-rrc
+https://www.ericsson.com/en/blog/2019/5/lte-nr-interworking-in-5g
+https://www.eventhelix.com/5G/
+https://www.qualcomm.com/research/5g/5g-nr
+https://www.techplayon.com/5gnr/
+https://en.wikipedia.org/wiki/5G_NR
+https://www.3gpp.org/technologies/5g-system-overview
