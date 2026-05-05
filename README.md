@@ -176,3 +176,7 @@ python full_pipeline.py \
 A demo video of the working Gradio interface and sample outputs is available here for 3B and 1B(0.5 is not included as it did not give acceptable results):
 
 [Project Demo Video](https://drive.google.com/drive/folders/1SObQ-kUhFSEbcVnuksNJBWtk7Py1H-I6?usp=sharing)
+
+
+Project page:[ https://sites.google.com/umn.edu/nlp-project?usp=sharing
+](url)
