@@ -17,8 +17,7 @@ requirements.txt                 # Python dependencies
 datasets/
   TS_38_331.pdf                  # Primary 3GPP TS 38.331 PDF
   adaptive_urls.txt              # 10 selected URLs used for adaptive retrieval
-outputs/                         # Optional output directory
-source_cache/                    
+                  
 ```
 
 ## Dataset and adaptive sources
