@@ -1,0 +1,13 @@
+beautifulsoup4
+bitsandbytes
+accelerate
+gradio
+pypdf
+PyPDF2
+pdfplumber
+pymupdf
+rank-bm25
+requests
+sentencepiece
+torch
+transformers
